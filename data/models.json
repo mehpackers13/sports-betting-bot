@@ -1,36 +1,36 @@
 {
   "signal_performance": {
     "sharp_money": {
-      "bets": 111,
+      "bets": 112,
       "wins": 49,
-      "losses": 62,
-      "pl": -376.1,
-      "risked": 4707.0,
-      "roi": -8.0,
+      "losses": 63,
+      "pl": -426.1,
+      "risked": 4757.0,
+      "roi": -9.0,
       "disabled": true,
-      "updated_at": "2026-10-15T04:13:44.950599Z",
+      "updated_at": "2026-10-19T03:28:50.245938Z",
       "source": "jarvis"
     },
     "rest_disadvantage": {
-      "bets": 339,
-      "wins": 160,
+      "bets": 340,
+      "wins": 161,
       "losses": 179,
-      "pl": -538.05,
-      "risked": 13810.0,
-      "roi": -3.9,
+      "pl": -490.17,
+      "risked": 13843.0,
+      "roi": -3.5,
       "disabled": false,
-      "updated_at": "2026-10-15T04:13:44.950599Z",
+      "updated_at": "2026-10-19T03:28:50.245938Z",
       "source": "jarvis"
     },
     "model_edge": {
-      "bets": 283,
-      "wins": 138,
-      "losses": 145,
-      "pl": -24.9,
-      "risked": 12574.0,
+      "bets": 285,
+      "wins": 139,
+      "losses": 146,
+      "pl": -27.02,
+      "risked": 12657.0,
       "roi": -0.2,
       "disabled": false,
-      "updated_at": "2026-10-15T04:13:44.950599Z",
+      "updated_at": "2026-10-19T03:28:50.245938Z",
       "source": "jarvis"
     },
     "public_fade": {
@@ -41,7 +41,7 @@
       "risked": 3134.0,
       "roi": -7.0,
       "disabled": true,
-      "updated_at": "2026-10-15T04:13:44.950599Z",
+      "updated_at": "2026-10-19T03:28:50.245938Z",
       "source": "jarvis"
     },
     "weather_edge": {
@@ -52,7 +52,7 @@
       "risked": 4246.0,
       "roi": -2.4,
       "disabled": false,
-      "updated_at": "2026-10-15T04:13:44.950599Z",
+      "updated_at": "2026-10-19T03:28:50.245938Z",
       "source": "jarvis"
     },
     "travel_disadvantage": {
@@ -63,7 +63,7 @@
       "risked": 567.0,
       "roi": -88.7,
       "disabled": true,
-      "updated_at": "2026-10-15T04:13:44.950599Z",
+      "updated_at": "2026-10-19T03:28:50.245938Z",
       "source": "jarvis"
     }
   },
@@ -72,11 +72,11 @@
     "sharp_money",
     "travel_disadvantage"
   ],
-  "last_updated": "2026-10-15T04:13:44.950599Z",
+  "last_updated": "2026-10-19T03:28:50.245938Z",
   "last_analysis": {
-    "total_bets": 938,
+    "total_bets": 942,
     "win_rate": 48.6,
     "roi": -2.1,
-    "jarvis_run_at": "2026-10-15T04:13:44.950599Z"
+    "jarvis_run_at": "2026-10-19T03:28:50.245938Z"
   }
 }
